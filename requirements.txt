@@ -1,0 +1,8 @@
+pip install speechrecognition 
+pip install pyaudio
+pip install googletrans==3.1.0a0
+pip install systemtools
+pip install Pillow
+pip3 install customtkinter
+pip install pyinstaller
+pip install pygame
