@@ -9,7 +9,7 @@ $ cd folder_name
 
 $ git clone https://github.com/cemalkureli/Translator.git
 
-$ cd Django-Blog-Project/
+$ cd Translator/
 
 If virtualenv is not installed;
 
